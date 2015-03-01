@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
+current_about: true
 ---
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)

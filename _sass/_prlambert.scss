@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/*
+
+  Custom SCSS for prlambert.com
+
+*/
+
+.site-header nav a.current {
+  color: #444;
+  opacity: 1;
+  border-bottom: 2px solid #444;
+}
+
+body {
+  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+}
