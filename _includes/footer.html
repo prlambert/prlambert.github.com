@@ -2,6 +2,9 @@
   <div class="p2 wrap">
     <div class="measure mt1 center">
       <small>
+            {% if site.show_social_icons %}
+        {% include social_links.html %}
+      {% endif %}
         © Paul Roland Lambert, 2015<br>
         <!-- Find him <a href="http://www.twitter.com/prlambert">on Twitter</a>.-->
       </small>
