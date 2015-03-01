@@ -7,14 +7,14 @@
         <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Newer</a>
       {% endif %}
     {% else %}
-      <span class="pagination-item disabled">Newer</span>
+      <!-- <span class="pagination-item disabled">Newer</span> --> <!-- don't show pagination if no page -->
     {% endif %}
   </div>
   <div class="right">
     {% if paginator.next_page %}
       <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Older</a>
     {% else %}
-      <span class="pagination-item disabled">Older</span>
+      <!-- <span class="pagination-item disabled">Older</span> --> <!-- don't show pagination if no page -->
     {% endif %}
   </div>
 </div>
