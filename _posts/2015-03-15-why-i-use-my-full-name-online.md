@@ -7,7 +7,7 @@ summary:    There are too many other "Paul Lambert"s out there.
 
 I’ve decided to use my full name, “Paul Roland Lambert” on the internet. Offline, I'm still going by “Paul,” like I always have. 
 
-My reason is just to be more discoverable online. Since I like to publish things online, I like to imagine that maybe people will want to find me in the future. Using Google, perhaps. But that’s hard right now, because there are a lot other people with my name. 
+My reason is just to be more discoverable. I like to imagine that if someone is looking for me online they can find me. Using Google, perhaps. But that’s really hard right now, because there are a lot other people with my name. 
 
 First of all, there’s a Scottish soccer coach.
 
