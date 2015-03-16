@@ -16,6 +16,7 @@ current_writing: true
         {% else %}
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
         {% endif %}
+          <div class="post-image" style="background: url({{ post.post-image }}) no-repeat center center;"></div>
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h3 class="h2 post-title">{{ post.title }}</h3>
           <p class="post-summary">{{ post.summary }}</p>
