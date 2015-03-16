@@ -1,8 +1,9 @@
 ---
 layout: default
+current_writing: true
 ---
 
-{% assign minutes = content | number_of_words | divided_by: 220 %}
+{% assign minutes = content | number_of_words | divided_by: 210 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}
 {% endif %}

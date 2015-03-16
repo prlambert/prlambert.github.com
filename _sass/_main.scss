@@ -30,9 +30,13 @@ img {
   min-height: 100%;
   margin-bottom: -120px;
   /* border-top: solid rgb(145, 218, 189) 1rem; seafoam green */
-  border-top: solid rgb(252, 99, 93) 1rem;
+  border-top: solid rgb(252, 99, 93) 1rem; 
 }
 
+html {
+  /* background-image: linear-gradient(rgb(252, 99, 93), rgb(252, 100, 85)); */
+}
+  
 .site-wrap:after {
   content: "";
   display: block;
