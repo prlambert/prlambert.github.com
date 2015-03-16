@@ -22,7 +22,7 @@ There’s also an actor from the sixties:
 
 ![Actor Me](/images/actor-me.jpg)
 
-And this guy on LinkedIn who like to call himself a “visionary”:
+And this guy on LinkedIn who calls himself a “visionary”:
 
 ![Visionary Me](/images/visionary-me.jpg)
 
