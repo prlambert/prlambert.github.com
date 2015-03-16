@@ -6,7 +6,7 @@ summary:    There are too many other "Paul Lambert"s out there.
 post-image: /images/me.jpg
 ---
 
-I’ve decided to use my full name, “Paul Roland Lambert” on the internet. Offline, I'm still going by “Paul,” like I always have. 
+I’ve decided to use my full name for my internet identity. Offline, I'm still going by “Paul,” like I always have. 
 
 My reason is just to be more discoverable. I like to imagine that if someone is looking for me online they can find me. Using Google, perhaps. But that’s really hard right now, because there are a lot other people with my name. 
 
