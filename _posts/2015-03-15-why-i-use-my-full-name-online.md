@@ -8,7 +8,7 @@ post-image: /images/me.jpg
 
 I’ve decided to use my full name for my internet identity. Offline, I'm still going by “Paul,” like I always have. 
 
-I like to imagine that if someone is looking for me online, that they can find me. Using Google, perhaps. But that’s really hard right now, because there are a lot other people with my name. 
+I like to imagine that if someone is looking for me online, they could find me. Using Google, perhaps. But that’s really hard right now, because there are a lot other people with my name. 
 
 First of all, there’s a Scottish soccer coach.
 
