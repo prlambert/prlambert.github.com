@@ -2,7 +2,7 @@
 layout: post
 title: "I’ve decided to use my full name on the internet."
 description: "The reasons why I go by my full name online"
-summary:    There are too many "Paul Lambert"s out there.
+summary:    There are too many other "Paul Lambert"s out there.
 ---
 
 I’ve decided to use my full name, “Paul Roland Lambert” on the internet. If you know me in real life, I hope you just call me “Paul” like you always have. 
