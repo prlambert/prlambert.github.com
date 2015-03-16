@@ -5,7 +5,7 @@ description: "The reasons why I go by my full name online"
 summary:    There are too many other "Paul Lambert"s out there.
 ---
 
-I’ve decided to use my full name, “Paul Roland Lambert” on the internet. If you know me in real life, I hope you just call me “Paul” like you always have. 
+I’ve decided to use my full name, “Paul Roland Lambert” on the internet. Offline, I'm still going by “Paul,” like I always have. 
 
 The reason is to be more discoverable by using a more unique name. Since I like to publish things online, I like to imagine that maybe people will want to find me in the future. Using Google, perhaps. But that’s hard right now, because there are a lot other people with my name. 
 
