@@ -7,7 +7,7 @@ current_about: true
 
 Hi, I'm Paul.
 
-These days I’m a Product Manager at Twitter living in San Francisco. Before Twitter, I was the founding CEO of Learndot from 2008 until January 2015. 
+I’m a Product Manager at Twitter living in San Francisco. Before Twitter, I was the founding CEO at Learndot from 2009 until January 2015, we when the company was acquired by Service Rocket.
 
 I love what I do. One reason is because I get to dive into awesome areas like design, business, technology, and development. Naturally these are also the areas I tend to write about. 
 
