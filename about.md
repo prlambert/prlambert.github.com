@@ -15,4 +15,4 @@ I love what I do. I get to work with and learn from amazing people in design, bu
 
 I post to this site, [Medium](https://medium.com/@prlambert), and occasionally other blogs. [Following me on Twitter](https://twitter.com/prlambert) is the best way to keep track. 
 
-Wanna chat? [Send me a tweet](https://twitter.com/prlambert) to get the quickest reply, but email usually works too: pr@prlambert.com.
+Wanna chat? [Send me a tweet](https://twitter.com/prlambert) to get the quickest reply, but email works too: pr@prlambert.com.
