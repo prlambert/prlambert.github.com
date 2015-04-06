@@ -15,7 +15,7 @@ I was born in the snowy Canadian priarie city of Calgary, Alberta, in 1983. When
 
 Fortunately, I had some other interests too and they've also stuck with me: Soccer (I still play, and am a huge Whitecaps FC fan), Music (I play guitar and piano and have been in a couple bands), and languages (I grew up Anglo-Canada going to French school and started studying Cantonese in high school (my girlfriend was from Hong Kong)). 
 
-In 2001, I moved to Vancouver to attend UBC. I was reading a lot of Kurt Vonnegut at the time, so declared a double major in Anthropology (his major) and Creative Writing. After getting my BA in 2006, I moved to Beijing, China and started a translation company. I sold it in 2008, moved back to Vancouver, and did a second degree in Computer Science. In 2009, while in school, I started Learndot with my childhood best friend, [Joe Gaudet](https://twitter.com/joegaudet). It eventually led me to San Francisco.
+In 2001, I moved to Vancouver to attend UBC. I was reading a lot of Kurt Vonnegut that summer, so declared a double major in Anthropology (his major) and Creative Writing. After getting my BA in 2006, I moved to Beijing, China and started a translation company. I sold it in 2008, moved back to Vancouver, and did a second degree in Computer Science. In 2009, while in school, I started Learndot with my childhood best friend, [Joe Gaudet](https://twitter.com/joegaudet). It eventually led me to San Francisco.
 
 I still like to write and usually publish on [Medium](https://medium.com/@prlambert).
 
