@@ -11,7 +11,7 @@ Hi, I'm Paul.
 
 I’m a Product Manager at Twitter living in San Francisco. Before Twitter, I was the founding CEO at [Learndot](http://www.learndot.com/) from 2009 until January 2015.
 
-I was born in the snowy Canadian priarie city of Calgary, Alberta, in 1983. When I was five, my dad brought home a 386 running DOS. It came with a pack of 50 floppies, each loaded with a different shareware game and the computer soon became my favorite toy. It still is. As a teenager in the 90s, I taught myself HTML to make a Smashing Pumpkings fansite on Geocities. I also spent way too much time in [MUDs](http://en.wikipedia.org/wiki/MUD). 
+I was born in the snowy Canadian priarie city of Calgary, Alberta, in 1983. When I was five, my dad brought home a 386 running DOS. It came with a pack of 50 floppies, each loaded with a different shareware game and the computer soon became my favorite toy. It still is. As a teenager in the 90s, I taught myself HTML to make a Smashing Pumpkins' fansite on Geocities. I also spent way too much time in [MUDs](http://en.wikipedia.org/wiki/MUD). 
 
 Fortunately, I had some other interests too and they've also stuck with me: Soccer (I still play, and am a huge Whitecaps FC fan), Music (I play guitar and piano and have been in a couple bands), and languages (I grew up Anglo-Canada going to French school and started studying Cantonese in high school (my girlfriend was from Hong Kong)). 
 
