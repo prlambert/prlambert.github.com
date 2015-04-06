@@ -17,6 +17,6 @@ Fortunately, I had some other interests too and they've also stuck with me: Socc
 
 In 2001, I moved to Vancouver to attend UBC. I was reading a lot of Kurt Vonnegut that summer, so declared a double major in Anthropology (his major) and Creative Writing. After getting my BA in 2006, I moved to Beijing, China and started a translation company. I sold it in 2008, moved back to Vancouver, and did a second degree in Computer Science. In 2009, while in school, I started Learndot with my childhood best friend, [Joe Gaudet](https://twitter.com/joegaudet). It eventually led me to San Francisco.
 
-In 2015, I joined Twitter as PM in Growth, which [I wrote about](https://medium.com/@prlambert/selling-learndot-and-joining-twitter-4b39576d1b15) at the time. So far all my predictions in that post have become true. Twitter really is an amazing place to work.
+In 2015, I joined Twitter as PM in Growth, which [I wrote about](https://medium.com/@prlambert/selling-learndot-and-joining-twitter-4b39576d1b15) at the time. So far all my predictions from that post have become true. Twitter really is an amazing place to work.
 
 Wanna chat? Can I be helpful? [Sending me a tweet](https://twitter.com/prlambert) is your best bet, but email usually works too: pr@prlambert.com.
