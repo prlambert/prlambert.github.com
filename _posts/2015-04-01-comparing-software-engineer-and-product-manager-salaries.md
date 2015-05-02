@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Four Rules for Starting a Startup."
-summary: Five years, four lessons. Notes to self for the next time at bat.
-alt-link: https://medium.com/@prlambert/selling-learndot-and-joining-twitter-4b39576d1b15
+title: "Software Engineering vs. Product Manager Salaries (at Facebook & Google)"
+summary: Using H1B data to pull back the curtain on what the big players pay.
+alt-link: https://medium.com/@prlambert/software-engineering-vs-product-manager-salaries-9564cd7e665f
 post-image: /images/fourup.png
 ---
