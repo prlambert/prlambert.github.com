@@ -15,7 +15,7 @@ I was born in the snowy Canadian priarie city of Calgary, Alberta, in 1983. When
 
 I had some other interests too and they've also stuck with me: soccer, music, growing food, languages (both human and computer), and writing.  
 
-In 2001, I moved to Vancouver to attend UBC where I graduated with a BA in Anthropology and English. After graduating, I moved to Beijing, China and started a translation company. I sold it in 2008, moved back to Vancouver, and did a second degree in Computer Science. In 2009, while in school, I started Learndot with my childhood best friend, [Joe Gaudet](https://twitter.com/joegaudet). It eventually led me to San Francisco.
+In 2001, I moved to Vancouver to attend UBC where I graduated with a BA in Anthropology and English. After graduation, I moved to Beijing, China and started a translation company. I sold it in 2008, moved back to Vancouver, and did a second degree in Computer Science. In 2009, while in school, I started Learndot with my childhood best friend, [Joe Gaudet](https://twitter.com/joegaudet). It eventually led me to San Francisco.
 
 In 2015, I joined Twitter as a PM in Growth, and [have worked on a lot of great products](https://www.linkedin.com/in/paulrolandlambert) with amazing colelagues.
 
