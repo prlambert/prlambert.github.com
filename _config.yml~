@@ -1,8 +1,8 @@
 # Site settings
-title:       PRL 
-email:       prl@prlambert.com
+title:       Paul Roland Lambert	
+email:       pr@prlambert.com
 author:      Paul Roland Lambert
-description: "Paul's website."
+description: "Paul's personal website."
 baseurl:     ""
 url:         "http://www.prlambert.com"
 production_url : www.prlambert.com
