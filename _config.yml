@@ -2,10 +2,12 @@
 title:       PRL 
 email:       prl@prlambert.com
 author:      Paul Roland Lambert
-description: "Paul's website."
+# description: "Paul's website."
 baseurl:     ""
 url:         "http://www.prlambert.com"
 production_url : www.prlambert.com
+
+plugins: [jekyll-paginate]
 
 # Google analytics
 google_analytics:
@@ -20,20 +22,16 @@ show_post_footers:  false
 disqus_shortname: prlambert
 
 # Social icons
-show_social_icons: true
+show_social_icons: false
 github_username:
 stackoverflow_id:
 twitter_username: prlambert
-google_plus_id:
 linkedin_username:
 bitcoin_url:
 paypal_url:
 flattr_button:
 
-# Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+# # Build settings
 permalink:    pretty
 paginate:     10
 sass:

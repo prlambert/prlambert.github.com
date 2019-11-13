@@ -1,8 +1,5 @@
----
-layout: post
-title: "Four Rules for Starting a Startup"
-summary: Five years, four lessons. Notes to self for the next time at bat.
----
+
+# Four Rules for Starting a Startup
 
 There are more than four rules, of course. I don’t know how many there are in total. But I do know these four are important. They are what I would tell myself if I could go back five years.
 
@@ -112,8 +109,7 @@ Three questions:
 We know the answers, of course. NASA put a man on the moon, the Hubble Space Telescope into orbit, and a selfie-taking rover on Mars. Google X is working to coat the entire planet with internet, embed computers in contact lenses, and is leading the development of self-driving cars. The head of Google X, Astro Teller’s title is literally “Captain of Moonshots”.
 
 Meanwhile, Elon Musk’s vision for SpaceX is “to make the human race an interplanetary species”. Which is crazy, yet not as crazy as the fact that they might actually do it. *On the side*, Elon is reshaping the global automobile and energy industries with Tesla and SolarCity.
-
-There’s sex appeal in the audacious. We all, deep down, want to be part of something important during our lives.
+> # There’s sex appeal in the audacious. Deep down, we all want to be part of something important during our lives.
 
 As an entrepreneur, you are always selling your vision. You sell it to the investors, to potential employees, to your customers, and to yourself. Your job is to get hearts pounding and imaginations whirling. No one wants to be part of little plans. There’s no magic in them. So don’t make them.
 

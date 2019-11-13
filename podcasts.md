@@ -1,7 +1,7 @@
 ---
-<!-- layout: page -->
-title: About
-permalink: /about/
+layout: page
+title: Podcasts
+permalink: /podcasts-i-like/
 current_about: false
 ---
 

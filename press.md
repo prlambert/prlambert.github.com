@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-current_about: true
+title: Press
+permalink: /press/
+current_about: false
 ---
 
 

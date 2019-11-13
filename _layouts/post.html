@@ -14,13 +14,13 @@ current_writing: true
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
-  <span class="post-meta small">{{ minutes }} minute read</span>
-</div>
+<!--   <span class="post-meta small">{{ minutes }} minute read</span>
+ --></div>
 
 <article class="post-content">
   {{ content }}
 </article>
-
+<!-- 
 {% if site.show_post_footers %}
   {% include post_footer.html %}
 {% endif %}
@@ -51,3 +51,4 @@ current_writing: true
     </div>
   {% endfor %}
 {% endif %}
+ -->

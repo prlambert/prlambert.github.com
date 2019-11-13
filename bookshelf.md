@@ -1,7 +1,7 @@
 ---
-<!-- layout: page -->
-title: About
-permalink: /about/
+layout: page
+title: Bookshelf
+permalink: /bookshelf/
 current_about: false
 ---
 
