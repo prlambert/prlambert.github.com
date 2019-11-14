@@ -5,15 +5,17 @@ permalink: /press/
 current_about: false
 ---
 
+Some news articles about things I worked on. I've marked the ones I was interviewed for with (interviewed)
 
-Hi, I'm Paul. 
 
-This is my about page. I find writing about pages pretty awkward, so I'll keep this short. 
+New York Times: https://www.nytimes.com/2018/11/07/magazine/you-already-email-like-a-robot-why-not-automate-it.html 
 
-* [My LinkedIn](https://www.linkedin.com/in/paulrolandlambert/): Accurate, but not always up to date. 
-* [My Twitter](https://twitter.com/prlambert): A good way to message me. If you send me a tweet, I'll see it. I'll probably even reply.
-* My email is pr@prlambert.com. Feel free to drop me a line, assuming you are a human. 
+New Yorker: https://www.newyorker.com/tech/annals-of-technology/gmail-smart-replies-and-the-ever-growing-pressure-to-e-mail-like-a-machine 
 
-I'm currently a Product Manager at Google living in Redwood City, just outside San Francisco . Before Google, I was a PM at Twitter for two years. Before Twitter, I was the founding CEO at [Learndot](http://www.learndot.com/) for five years. I'm originally from Calgary. Over the course of 2005-2008 I spent two years in Beijing. 
+Wall Street Journal: 
+https://www.wsj.com/articles/very-interesting-awesome-love-it-gmail-users-confront-chipper-smart-reply-1537282569
 
-Thanks for reading!
+Reuters (interview on gender)
+https://www.reuters.com/article/us-alphabet-google-ai-gender/fearful-of-bias-google-blocks-gender-based-pronouns-from-new-ai-tool-idUSKCN1NW0EF 
+
+Forbes: https://www.forbes.com/sites/anthonykarcz/2018/05/08/smart-compose-in-the-new-gmail-is-ready-to-write-your-emails-for-you/#280e9bce4c2e

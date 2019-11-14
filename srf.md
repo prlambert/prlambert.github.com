@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Startup Risks Framework
+title: Risk Framework
 permalink: /startup-risks-framework/
 ---
 

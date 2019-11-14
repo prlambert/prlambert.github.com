@@ -79,7 +79,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /*font-family: "Abril Fatface", serif;*/
+  font-family: 'Barlow Condensed', sans-serif;
   font-size: 3.25rem;
 }
 
@@ -96,7 +97,7 @@ a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
 .sidebar-nav-item.active {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 /* Sticky sidebar

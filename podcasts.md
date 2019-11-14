@@ -1,19 +1,39 @@
 ---
 layout: page
-title: Podcasts
+title: Podcastshelf
 permalink: /podcasts-i-like/
 current_about: false
 ---
 
+# Podcasts I like
 
-Hi, I'm Paul. 
+*Last updated: December 2019*
 
-This is my about page. I find writing about pages pretty awkward, so I'll keep this short. 
+I like podcasts. They feel like blogs did 10 years ago. They're a chance to connect with and learn from some really smart people.
 
-* [My LinkedIn](https://www.linkedin.com/in/paulrolandlambert/): Accurate, but not always up to date. 
-* [My Twitter](https://twitter.com/prlambert): A good way to message me. If you send me a tweet, I'll see it. I'll probably even reply.
-* My email is pr@prlambert.com. Feel free to drop me a line, assuming you are a human. 
+Unlike my bookshelf, I've listed to most of this list.
 
-I'm currently a Product Manager at Google living in Redwood City, just outside San Francisco . Before Google, I was a PM at Twitter for two years. Before Twitter, I was the founding CEO at [Learndot](http://www.learndot.com/) for five years. I'm originally from Calgary. Over the course of 2005-2008 I spent two years in Beijing. 
+**Podcasts I subscribe to and try to listen to everyepisode**
 
-Thanks for reading!
+* Econtalk
+* Acquired
+* Exponent
+* Invest Like The Best
+* The Talk Show
+* Internet History Podcast
+
+
+**Podcast documentaries**
+
+* S-town
+* Hardcore History
+* Containers
+
+S-town really touched me. Hardcore History is absolutely phenomenal, Dan Carlin is in a league of his own. 
+
+**Podcasts have listened to and like, but end up skipping most episodes**
+
+* LSE public lectures
+* This American Life
+* TradeTalks
+* MacroMusings
