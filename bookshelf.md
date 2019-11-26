@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Bookshelf
 permalink: /bookshelf/
 current_about: false

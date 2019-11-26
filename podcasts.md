@@ -7,33 +7,32 @@ current_about: false
 
 # Podcasts I like
 
-*Last updated: December 2019*
+*Last updated: November 2019*
 
-I like podcasts. They feel like blogs did 10 years ago. They're a chance to connect with and learn from some really smart people.
+I like podcasts. They're a direct connection to some really smart people. They feel like blogs did 10 years ago.
 
-Unlike my bookshelf, I've listed to most of this list.
+**Podcasts I subscribe to and try to listen to every episode**
 
-**Podcasts I subscribe to and try to listen to everyepisode**
+* [EconTalk](https://www.econtalk.org/)
+* [Acquired](https://www.acquired.fm/)
+* [Exponent](https://exponent.fm/)
+* [Invest Like The Best](http://investorfieldguide.com/podcast/)
+* [Internet History Podcast](http://www.internethistorypodcast.com/)
+* [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 
-* Econtalk
-* Acquired
-* Exponent
-* Invest Like The Best
-* The Talk Show
-* Internet History Podcast
+Hardcore History is absolutely phenomenal, Dan Carlin is in a league of his own. 
+Econtalk is the most intellectually stimulating. Acquired was the biggest influence on a podcast I'm currently working on with [Aakash Sahney](https://twitter.com/aakashsahney?lang=en) (tentatively called "Product Post-Mortem"). 
 
+**Podcast documentaries I've completed**
 
-**Podcast documentaries**
+* [S-town](https://stownpodcast.org/)
+* [Containers](https://medium.com/containers/episode-1-welcome-to-global-capitalism-f9f56c92f414)
 
-* S-town
-* Hardcore History
-* Containers
-
-S-town really touched me. Hardcore History is absolutely phenomenal, Dan Carlin is in a league of his own. 
+S-town really touched me. 
 
 **Podcasts have listened to and like, but end up skipping most episodes**
 
-* LSE public lectures
-* This American Life
-* TradeTalks
-* MacroMusings
+* [LSE: Public lectures and events](https://www.podbean.com/podcast-detail/duvpa-2f030/LSE-Public-lectures-and-events-Podcast)
+* [Trade Talks](https://www.tradetalkspodcast.com/)
+* And of course, the grandaddy of podcasts, [This American Life](https://www.thisamericanlife.org/)
+

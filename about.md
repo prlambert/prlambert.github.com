@@ -5,15 +5,16 @@ permalink: /about/
 current_about: false
 ---
 
-
 Hi, I'm Paul. 
 
-This is my about page. I find writing about pages pretty awkward, so I'll keep this short. 
+I live in Silicon Valley and grew up in <a href="https://en.wikipedia.org/wiki/Calgary">Canada</a>. I'm a Partner at <a href="https://area120.google.com/">Area 120</a>, Google's internal early stage fund and startup incubator. 
 
-* [My LinkedIn](https://www.linkedin.com/in/paulrolandlambert/): Accurate, but not always up to date. 
-* [My Twitter](https://twitter.com/prlambert): A good way to message me. If you send me a tweet, I'll see it. I'll probably even reply.
-* My email is pr@prlambert.com. Feel free to drop me a line, assuming you are a human. 
+I began my career as an entrepreneur. In 2009, I cofounded <a href="https://www.learndot.com/">Learndot</a> and was CEO for 5 years. Prior to Learndot, I developed a tech-enabled translation service in China during the run up to the 2008 Beijing Olympics. 
 
-I'm currently a Product Manager at Google living in Redwood City, just outside San Francisco . Before Google, I was a PM at Twitter for two years. Before Twitter, I was the founding CEO at [Learndot](http://www.learndot.com/) for five years. I'm originally from Calgary. Over the course of 2005-2008 I spent two years in Beijing. 
+After selling Learndot in 2014 to a company in Palo Alto, I had the chance to move to California. Finally, after years being on the outside looking in. I wanted to learn from the best. I wanted to work on products used by hundreds of millions of people. So I became a Product Manager – first at Twitter for 2 years and then at Google to work on Gmail. On Gmail I led the the development of a number of AI features including Smart Compose. 
 
-Thanks for reading!
+For more professional background, here's my <a href="https://www.linkedin.com/in/paulrolandlambert/">LinkedIn</a>. 
+
+Email: <a href="mailto:prl@prlambert.com">prl@prlambert.com</a>
+
+Twitter: <a href="https://twitter.com/prlambert">prlambert@</a>
