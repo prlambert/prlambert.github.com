@@ -11,7 +11,7 @@ current_about: false
 
 I like podcasts. They're a direct connection to some really smart people. They feel like blogs did 10 years ago.
 
-**Podcasts I subscribe to and try to listen to every episode**
+**Podcasts I subscribe to and listen to every episode**
 
 * [EconTalk](https://www.econtalk.org/)
 * [Acquired](https://www.acquired.fm/)
@@ -20,7 +20,7 @@ I like podcasts. They're a direct connection to some really smart people. They f
 * [Internet History Podcast](http://www.internethistorypodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 
-Hardcore History is absolutely phenomenal, Dan Carlin is in a league of his own. 
+Hardcore History is phenomenal, Dan Carlin is in a league of his own. 
 Econtalk is the most intellectually stimulating. Acquired was the biggest influence on a podcast I'm currently working on with [Aakash Sahney](https://twitter.com/aakashsahney?lang=en) (tentatively called "Product Post-Mortem"). 
 
 **Podcast documentaries I've completed**
@@ -30,7 +30,7 @@ Econtalk is the most intellectually stimulating. Acquired was the biggest influe
 
 S-town really touched me. 
 
-**Podcasts have listened to and like, but end up skipping most episodes**
+**Podcasts I like, but end up missing most episodes**
 
 * [LSE: Public lectures and events](https://www.podbean.com/podcast-detail/duvpa-2f030/LSE-Public-lectures-and-events-Podcast)
 * [Trade Talks](https://www.tradetalkspodcast.com/)
