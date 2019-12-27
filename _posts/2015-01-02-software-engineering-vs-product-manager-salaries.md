@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Engineering vs. Product Manager Salaries (at Facebook & Google)"
-summary: The story of how Learndot found its name. 
 ---
+*Note (2019): I wrote and published this long before I was hired at Google. I'm keeping it up for historical purposes, but I have not revisted it since publication. I do not endorse any of it today.*
 
-
-*Note: I originally wrote this in November 2014, to have some data while transitioning out of startupland. It may no longer be accurate.*
+*Note (2015): I originally wrote this in November 2014, to have some data while transitioning out of startupland. It may no longer be accurate.*
 
 Facebook and Google are two of Silicon Valley’s fiercest competitors for talent. So who pays more? Specifically, what do they pay their Software Engineers (SEs) and Product Managers (PMs)? A few weeks ago, I came across a dataset that makes it surprisingly easy to answer this question.
 
@@ -13,7 +12,7 @@ The data is a fortunate byproduct of disclosure requirements around visa sponsor
 
 Since the data comes directly from the US government, I trust it more than the self-reported salaries on Glassdoor. That said, there are still a lot of caveats and holes in this analysis. I’ve listed a few near the end of this article.
 
-### The Data
+## The Data
 
 I’ve sampled and cleaned the data this way:
 
@@ -27,29 +26,29 @@ I’ve sampled and cleaned the data this way:
 
 1. Kept only results with the job title “Software Engineer” or “Product Manager”.
 
-### The Results
+## The Results
 
 First, a 5-number summary table:
 
-![](https://cdn-images-1.medium.com/max/2536/1*Fv7VtULq9P8gTc-pcn10QA.png)
+![](/images/summarytable.png)
 
 And graphically, using a boxplot:
 
-![](https://cdn-images-1.medium.com/max/2272/1*ELF4YVm47IQo4wxIZ9HMHQ.png)
+![](/images/boxplot.png)
 
 *If you haven’t read a boxplot in a while, the bottom and top borders of each box are the 25th and 75th percentiles. The line in the middle is the median (50th percentile). The width of the boxes is not significant. The solid lines stretching above and below extend for a maximum 1.5x the height of the box (the [interquartile range](http://en.wikipedia.org/wiki/Interquartile_range)). Samples beyond those lines are considered outliers, shown as dots.*
 
 Now let’s approximate a continuous distribution for the roles at both companies.
 
-![](https://cdn-images-1.medium.com/max/2264/1*FKQCtkbSmwnHPfU6yh2E8Q.png)
+![](/images/cdistribution.png)
 
 Overlaid for each role:
 
-![](https://cdn-images-1.medium.com/max/2268/1*k2fhc-NwxCK0oCTOIKBhMQ.png)
+![](/images/sedistribution.png)
 
-![](https://cdn-images-1.medium.com/max/2280/1*WopM5n7BZZTBFCSTnzPALQ.png)
+![](/images/pmdistribution.png)
 
-### Thoughts and Observations
+## Thoughts and Observations
 
 Salaries across positions and companies are pretty close, both in range and distribution. If we’re playing it safe, this is probably the only real conclusion we can draw. There is expected error in all this data that I haven’t quantified. Given how close things are, any further conclusions would be a little sketchy.
 
@@ -69,7 +68,7 @@ But who has any fun playing it safe? Here are my thoughts anyway:
 
 * The SE:PM ratio at both companies are very similar. 35 Engineers per 1 PM at Google; 40 Engineers per 1 PM at Facebook.
 
-### Caveats and Holes
+## Caveats and Holes
 
 Naturally there are many factors that undermine the credibility of my conclusions. Here are a few:
 
@@ -93,6 +92,6 @@ On the other hand, the H1B sampling could also have the opposite effect:
 
 1. Being on an H1B ties your immigration status to your employer — you can’t quit your job or easily move to another one without risking being deported. This severely restricts job mobility and thus power in the labor market for H1B workers.
 
-### Wrapping Up
+## Wrapping Up
 
 This was fun, but remember that it’s not all about the money — or even mostly about the money. If you’re lucky enough to be in one of these roles, your job satisfaction and personal happiness is going to be determined much more by your feelings towards the work itself, your relationship with your co-workers, and a bunch of other intangibles. Having said that, I don’t fault anyone for striving to realize their full earning potential. Good luck in that noble pursuit.
