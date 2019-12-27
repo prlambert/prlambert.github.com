@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Press
+title: Clippings
 permalink: /press/
 current_about: false
 ---
 
 
-# Articles about things I've worked on
-*Last updated: November 2019*
+# Some clippings about my work
+*Last updated: December 2019*
 
 **Gmail**
 

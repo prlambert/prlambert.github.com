@@ -5,22 +5,28 @@ permalink: /blog/
 current_about: false
 ---
 
+# Blog Archive
+
+*I've saved a couple older blog posts here. They were all orginally published on Medium or the Learndot blog.*
+
+
 <div class="posts">
   {% for post in site.posts %}
   <div class="post">
-    <h1 class="post-title">
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+    <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    </h2>
 
     {{ post.excerpt }}
     
   </div>
   {% endfor %}
 </div>
+
+
 <!-- 
 <div class="pagination">
   {% if paginator.next_page %}
