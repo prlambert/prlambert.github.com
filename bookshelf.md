@@ -10,7 +10,7 @@ current_about: false
 
 *This was inspired by Patrick Collison's [bookshelf](https://patrickcollison.com/bookshelf) and Nassim Taleb's [description of Umberto Eco's library](https://books.google.com/books?id=GSBcQVd3MqYC&newbks=1&newbks_redir=0&lpg=PP1&dq=the%20black%20swan&pg=PA1#v=onepage&q&f=false) at the beginning of The Black Swan.*
 
-Sonia (my wife) says I have a book buying addiction. I don't want this page to give an inflated impression so I need to admit this up front: I've only read a quarter of these books. Maybe. That is probably generous.
+Sonia (my wife) says I have a book buying addiction. I don't want this page to give an inflated impression so I need to admit this up front: I've only read half these books. Maybe. That is probably generous.
 
 This page contains most of the books on my physical bookshelf, my kindle, and my Amazon wishlist. I've moved a couple times as an adult and done a few purges, so many of the books I bought earlier in life aren't listed. I haven't included textbooks, children's books, travel books, cookbooks, or anything I found too embarassing.
 
