@@ -1,12 +1,13 @@
 {
-  t10: { title: "Top 10", link: "top10"},
+  t10: { title: "Call Outs", link: "notable "},
   eco: { title: "Economics", link:  "economics"},
-  tai: { title: "Technology and Innovation Theory", link: "techandinnovation"},
-  biz: { title: "General Business, Negotiation, and Self-Help", link: "business-self-help"},
+  # tai: { title: "Technology and Innovation Theory", link: "techandinnovation"},
+  biz: { title: "Business and Investing", link: "business-self-help"},
   phi: { title: "Philosophy", link: "philosophy"},
   sci: { title: "Science and Engineering", link: "science"},
   mat: { title: "Mathematics", link: "math"},
-  gnf: { title: "General Non-Fiction", link: "non-fiction"},
-  fic: { title: "Fiction & Plays",  link: "fiction"},
+  gnf: { title: "Ideas & General Non-Fiction", link: "non-fiction"},
+  cre: { title: "Creative Work", link: "creative"},
+  fic: { title: "Fiction and Narrative",  link: "narrative"},
   poe: { title: "Poetry", link: "poetry"}
 }

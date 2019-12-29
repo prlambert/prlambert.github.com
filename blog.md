@@ -7,7 +7,7 @@ current_about: false
 
 # Blog Archive
 
-*I've saved a couple older blog posts here that I think are worth reading. They were all orginally published on Medium or the Learndot blog.*
+*I've saved a few older posts that I think are worth reading. They were all orginally published on Medium or the Learndot blog.*
 
 
 <div class="posts">

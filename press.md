@@ -6,7 +6,7 @@ current_about: false
 ---
 
 
-# Some clippings about my work
+# Press about things I've worked on
 *Last updated: December 2019*
 
 **Gmail**
