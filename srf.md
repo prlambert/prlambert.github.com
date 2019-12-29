@@ -1,5 +1,5 @@
 ---
-# layout: page
+
 title: Risk Framework
 permalink: /startup-risks-framework/
 ---
