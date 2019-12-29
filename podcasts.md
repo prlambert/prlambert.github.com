@@ -16,6 +16,7 @@ current_about: false
 * [Exponent](https://exponent.fm/) – Ben Thompson's podcast. Tech business analysis. 
 * [Invest Like The Best](http://investorfieldguide.com/podcast/)
 * [Internet History Podcast](http://www.internethistorypodcast.com/)
+* [Mindscape](https://www.preposterousuniverse.com/podcast/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/) - Dan Carlin is in a league of his own. He does more research than anyone, is a master of story craft, and is a seasoned professional on the microphone. 
 
 **Podcast documentaries**
