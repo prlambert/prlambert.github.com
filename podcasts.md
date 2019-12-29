@@ -13,7 +13,7 @@ current_about: false
 
 * [Acquired](https://www.acquired.fm/) – Great storytelling and startup analysis. 
 * [EconTalk](https://www.econtalk.org/) – The most intellectually stimulating podcast I know. 
-* [Exponent](https://exponent.fm/) – Ben Thompson's podcast. Strategic analysis of the tech ecosystem. 
+* [Exponent](https://exponent.fm/) – Ben Thompson's podcast. Tech business analysis. 
 * [Invest Like The Best](http://investorfieldguide.com/podcast/)
 * [Internet History Podcast](http://www.internethistorypodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/) - Dan Carlin is in a league of his own. He does more research than anyone, is a master of story craft, and is a seasoned professional on the microphone. 
