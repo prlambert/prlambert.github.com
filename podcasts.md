@@ -9,7 +9,7 @@ current_about: false
 
 *Last updated: November 2019*
 
-I like podcasts a lot – they are a direct connection to some really smart people and make commuting so much more satisfying. 
+I like podcasts. They are a direct connection to some really smart people and make commuting so much less draining. 
 
 **Podcasts I subscribe to and listen to most episodes**
 
