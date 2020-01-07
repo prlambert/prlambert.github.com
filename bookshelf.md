@@ -16,7 +16,7 @@ This page contains most of the books on my physical bookshelf, my kindle, and my
 
 I'm organizing my books broadly by subject because I hope it helps you navigate. It's also roughly how I aspire to organize my actual bookshelf, which is usually in a semi-disordered approximation of these lists. Some of the books could live in multiple categories. This is entirely my own categorization, i.e. non-standard.
 
-I've included a section to call out a few books that had an outsized impact on my thinking. I've read all of those. Each of those are also listed in a subject section.
+I've included a section to call out a few books that had an outsized impact on me. I've read all of those. Each of those are also listed in a subject section.
 
 All sections are organized alphabetically by author's first name. 
 
