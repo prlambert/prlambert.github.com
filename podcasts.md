@@ -7,7 +7,7 @@ current_about: false
 
 # Podcasts I like
 
-*Last updated: November 2019*
+*Last updated: January 2020*
 
 **Podcasts I subscribe to and listen to most episodes**
 

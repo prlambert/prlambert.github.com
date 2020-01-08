@@ -5,9 +5,9 @@
   biz: { title: "Business and Investing", link: "business-self-help"},
   phi: { title: "Philosophy", link: "philosophy"},
   sci: { title: "Science and Engineering", link: "science"},
-  mat: { title: "Mathematics", link: "math"},
-  gnf: { title: "Ideas & General Non-Fiction", link: "non-fiction"},
+  mat: { title: "Math and Computer Science", link: "math"},
+  gnf: { title: "General Non-Fiction", link: "non-fiction"},
   cre: { title: "Creative Work", link: "creative"},
-  fic: { title: "Fiction and Narrative",  link: "narrative"},
+  fic: { title: "Narrative",  link: "narrative"},
   poe: { title: "Poetry", link: "poetry"}
 }
