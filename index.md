@@ -8,7 +8,7 @@ current_about: true
 
 Hi, I'm Paul. 
 
-I'm a Partner at [Area 120](https://area120.google.com), Google's internal early stage fund and startup incubator. I live in the Bay Area and grew up in <a href="https://en.wikipedia.org/wiki/Calgary">Canada</a>.
+I'm a Partner at [Area 120](https://area120.google.com), Google's internal incubator. I live in the Bay Area and grew up in <a href="https://en.wikipedia.org/wiki/Calgary">Canada</a>.
 
 I started my career as an entrepreneur. In 2009, I cofounded <a href="https://www.learndot.com/">Learndot</a>, a learning technology company, and was CEO for 5 years. You can learn more about that time in the [Blog Archive](/blog/). Before Learndot (and right after university), I developed a tech-enabled translation service in China ahead of the Beijing Olympics. 
 
