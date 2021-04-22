@@ -14,7 +14,7 @@ I started my career as an entrepreneur. In 2009, I cofounded <a href="https://ww
 
 In 2014, Learndot was acquired by a company in Palo Alto and I had the chance to move to California. Finding myself in Silicon Valley, I wanted to learn from the best and build products used by people around the world. I have been lucky enough to do just that – first at Twitter and now at Google. 
 
-For more professional background, see my <a href="https://www.linkedin.com/in/paulrolandlambert/">LinkedIn</a>. I'm also a proud dad and husband. For more personal information, get to know me. 
+For more professional background, see my <a href="https://www.linkedin.com/in/paulrolandlambert/">LinkedIn</a>.
 
 Feel free to contact me here: 
 * email: <a href="mailto:prl@prlambert.com">prl@prlambert.com</a>
