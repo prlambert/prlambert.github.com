@@ -14,7 +14,7 @@ I don't want this page to give an inflated impression so I need to admit this up
 
 This page contains most of the books on my physical bookshelf, my kindle, and my Amazon wishlist. I've moved a couple times as an adult and done a few purges, so many of the books I bought earlier in life aren't listed. I haven't included textbooks, children's books, travel books, cookbooks, or anything I found too embarassing.
 
-I'm organizing my books broadly by subject because I hope it helps you navigate. It's also roughly how I aspire to organize my actual bookshelf, which is usually in a semi-disordered approximation of these lists. Some of the books could live in multiple categories. This is entirely my own categorization, i.e. non-standard.
+I'm organizing my books broadly by subject because I hope it helps you navigate. It's also roughly how I aspire to organize my actual bookshelf, which is usually in a disordered approximation of these lists. Some of the books could live in multiple categories. This is entirely my own categorization, i.e. non-standard.
 <!-- 
 I've included a section to call out a few books that had an outsized impact on me. I've read all of those. Each of those are also listed in a subject section. -->
 
